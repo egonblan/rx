@@ -1,0 +1,5 @@
+# pack-refs with: peeled fully-peeled sorted 
+ef6e2a154ea6ea61f8f4484e57b3d3dd68f39b55 refs/remotes/origin/master
+f0c766f72368d3bcebc3fec86be008037e0d0949 refs/remotes/origin/solution
+8a7634b71a3781182761ddf8833f1f0eef7fa42d refs/remotes/origin/techio_course
+9011901476bb124213c86bdde43e45fb5c304920 refs/remotes/origin/upgradeTechio_course
